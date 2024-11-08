@@ -1,6 +1,6 @@
 name: Build and Tests
 
-on:
+on: 
   push:
     branches: [ master ]
   pull_request:
